@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on 🕸 graph machine learning 
+- 🌱 I’m currently learning web app development
+- 💬 Ask me about :
+  - machine learning (algorithms & systems, theory & practice)
+  - Haskell
+- 📫 How to reach me: @ocramz_yo 
+- 😄 Pronouns: he/him
+
 <!--
 **ocramz/ocramz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,11 +1,13 @@
 ### Hi!
 
-My open source work mostly focuses on building machine learning and data science libraries in Haskell.
 
-- 🔭 I’m currently working on 🕸 graph machine learning 
+- 🔭 I’m currently working on 
+  - 🕸 graph machine learning 
+  - a startup
 - 💬 Ask me about :
   - machine learning (algorithms & systems, theory & practice)
   - Haskell
+  - bootstrapping
 - 📫 How to reach me: @ocramz_yo 
 - 😄 Pronouns: he/him
 

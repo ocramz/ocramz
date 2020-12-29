@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi!
+
+My open source work mostly focuses on building machine learning and data science libraries in Haskell.
 
 - 🔭 I’m currently working on 🕸 graph machine learning 
-- 🌱 I’m currently learning web app development
 - 💬 Ask me about :
   - machine learning (algorithms & systems, theory & practice)
   - Haskell

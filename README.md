@@ -2,11 +2,11 @@
 
 
 - 🔭 I’m currently working on 
-  - 🕸 graph machine learning 
   - a startup
 - 💬 Ask me about :
-  - machine learning (algorithms & systems, theory & practice)
+  - machine learning
   - Haskell
+  - SaaS product development
   - bootstrapping
 - 📫 How to reach me: @ocramz_yo 
 - 😄 Pronouns: he/him
